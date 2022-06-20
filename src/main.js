@@ -60,15 +60,15 @@ function showUserData(data){
 
       <div class="user-stats-content">
         <div class="user-repos">
-          <h4>Repos</h4>
+          <h5>Repos</h5>
           <p>${data.public_repos}</p>
         </div>
         <div class="user-followers">
-          <h4>Followers</h4>
+          <h5>Followers</h5>
           <p>${data.followers}</p>
         </div>
         <div class="user-following">
-          <h4>Following</h4>
+          <h5>Following</h5>
           <p>${data.following}</p>
         </div>
       </div>
