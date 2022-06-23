@@ -28,7 +28,7 @@ Install NPM or PNPM
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/josnethmoreno/singleton.git
+   git clone https://github.com/josnethmoreno/github-profile-search.git
    ```
    
 2. Install NPM packages
