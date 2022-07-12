@@ -1,7 +1,7 @@
 <div id="top"></div>
 
-# Github Profile Search
-This app is a github developer search engine. The github public API is consumed with fetch, async and await. To obtain and paint the data of the searched user
+# Github profile search
+This app is a github developer search engine. The github public API is consumed with fetch, async and await. 
 
 ### Built with:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
